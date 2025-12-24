@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'Haohan Wang'
+__author__ = 'Jiahui Zhang, Haohan Wang'
 
 from dataGeneration.generationData import generatePersonalizedDataIID
 from model.personalizedModel import PersonalizedThroughMixedModel
