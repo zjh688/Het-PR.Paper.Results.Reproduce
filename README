@@ -1,0 +1,4 @@
+Model file is the main code file for Het Pr model.
+Data generation file and simulation_main file are for simulation.
+Prepare ALZ Data and Fit ALZ data is code for preparing ADNI Alz GWAS data, fitting prepared data on Het Pr model, doing hierical clustering, preparing Enrichment Analysis SNP/Gene and finding Cognitive characterization.
+Cross Disease Association file is for finding Epilepsy-associated genetic variants.
